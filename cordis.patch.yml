@@ -1,0 +1,4 @@
+# Installable profile layer for the Harness desktop plugin manager.
+- insert:
+    - id: multimodel-dashboard
+      name: dsh-multimodel-dashboard
